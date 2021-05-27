@@ -7,14 +7,14 @@
 
 ```$ cd ~/catkin_ws $ catkin_make```
 
-패키지 경로로 이동하여 rrbotsimstart.sh를 실행합니다. 
-`$ cd ~/catkin_ws/src/rrbot_pushing_object/rrbot_pushing_object_basic
-$ bash rrbotsimstart.sh`
+패키지 경로로 이동하여 rrbotsimstart.sh를 실행합니다.
+
+```$ cd ~/catkin_ws/src/rrbot_pushing_object/rrbot_pushing_object_basic
+$ bash rrbotsimstart.sh```
 
 이 스크립트는 
 
-$ cd ~/catkin_ws/src/rrbot_pushing_object/rrbot_pushing_object_basic
-$ bash rrbotsimstart.sh
+
 
 3.1 예제 구동 완료 하였고 잘 작동하는것을 확인했습니다.  
 ![Screencast from 2021년 05월 17일 19시 59분 53초](https://user-images.githubusercontent.com/84000076/118479522-13a65f00-b74c-11eb-8d66-5781a6030fdb.gif)
