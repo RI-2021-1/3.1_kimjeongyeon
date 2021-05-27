@@ -10,10 +10,12 @@
 패키지 경로로 이동하여 rrbotsimstart.sh를 실행합니다.
 
 ```$ cd ~/catkin_ws/src/rrbot_pushing_object/rrbot_pushing_object_basic```
+
 ```$ bash rrbotsimstart.sh```
 
 
 이 스크립트는 네 개의 파일을 한번에 실행시킵니다.
+
 ```rrbot_gazebo_launch.sh```
 ```rrbot_ros_control.sh```
 ```rrbot_pushing_object.sh```
