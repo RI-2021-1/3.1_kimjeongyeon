@@ -1,4 +1,7 @@
 # 3.1_kimjeongyeon
+예제를 시작하기에 앞서 UBUNTU 18.04에 호환되는 ROS Melodic을 설치하였습니다.
+http://wiki.ros.org/melodic/Installation/Ubuntu
+순서대로 설치한 이후,
 작업 공간에 rrbot_pushing_object_basic 패키지를 다운로드 했습니다.
 
 ```$ cd ~/catkin_ws/src git clone https://github.com/srebroa/rrbot_pushing_object.git```
