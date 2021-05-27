@@ -6,7 +6,7 @@
 이후 작업공간에서 catkin make를 실행합니다.
 
 ```$ cd ~/catkin_ws
-$ catkin_make
+    $ catkin_make
 ```
 
 3.1 예제 구동 완료 하였고 잘 작동하는것을 확인했습니다.  
