@@ -21,5 +21,13 @@
 ```rrbot_pushing_object.sh```
 ```rrbot_camera_view.sh```
 
-3.1 예제 구동 완료 하였고 잘 작동하는것을 확인했습니다.  
+실행되면 로봇 팔이 상자를 밀어냅니다.
+![gazebo](https://user-images.githubusercontent.com/84000076/119892091-b5138900-bf74-11eb-8a83-55a8e254a6d5.png)
+
+또한 카메라로 바라보는 방향을 촬영합니다.
+![camera](https://user-images.githubusercontent.com/84000076/119892152-cbb9e000-bf74-11eb-859a-0076d33d628b.png)
+
+
+
+3.1 예제 구동 완료 하였고 다음은 .  
 ![Screencast from 2021년 05월 17일 19시 59분 53초](https://user-images.githubusercontent.com/84000076/118479522-13a65f00-b74c-11eb-8d66-5781a6030fdb.gif)
