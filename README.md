@@ -31,6 +31,12 @@ http://wiki.ros.org/melodic/Installation/Ubuntu
 또한 카메라로 바라보는 방향을 촬영합니다.
 ![camera](https://user-images.githubusercontent.com/84000076/119892152-cbb9e000-bf74-11eb-859a-0076d33d628b.png)
 
+터미널에 다음과 같은 코드 입력 시 관절을 움직일 수 있습니다.
+
+```rostopic pub /rrbot/joint2_position_controller/command std_msgs/Float64 "data: -0.9"```
+
+코드 입력 시 로봇 팔이 다음과 같이 움직입니다.
+![gazebo moved](https://user-images.githubusercontent.com/84000076/119893268-1daf3580-bf76-11eb-9eb4-485dc0ff0e74.png)
 
 
 3.1 예제 구동 완료 하였고 다음은 구동 영상입니다.  
