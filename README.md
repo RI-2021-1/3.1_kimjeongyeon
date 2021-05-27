@@ -1,6 +1,5 @@
 # 3.1_kimjeongyeon
 작업 공간에 rrbot_pushing_object_basic 파일을 다운로드 했습니다.
-  
   $ cd ~/catkin_ws/src git clone https://github.com/srebroa/rrbot_pushing_object.git
   
 
